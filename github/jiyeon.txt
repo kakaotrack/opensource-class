@@ -3,7 +3,7 @@ Student ID: 2014104144
 Github URL: https://github.com/jiyeonle
 
 ## 구독하는 오픈소스 저장소
-1.
+1. https://github.com/daumkakaotrack/open-source-class-old
 2.
 3.
 4.
@@ -17,7 +17,7 @@ Github URL: https://github.com/jiyeonle
 5.
 
 ## 포킹한 오픈소스 저장소
-1.
+1. https://github.com/daumkakaotrack/open-source-class-old
 2.
 3.
 4.
