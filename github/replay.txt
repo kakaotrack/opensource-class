@@ -1,3 +1,27 @@
 Name: 김재현
 Student ID: 2011108183
 Github URL: http://github.com/replaykim
+
+구독하는 오픈소스 저장소
+
+1./airbnb/javascript
+2./w3c/html
+3./niceaji/javascript-study
+4./pubnub/java
+5./daumkakaotrack/java-framework-class
+
+좋아하는 오픈소스 저장소
+
+1./replaykim/android
+2./airbnb/javascript
+3./niceaji/javascript-study
+4./replaykim/Arduino
+5./replaykim/markdown-here
+
+포킹한 오픈소스 저장소
+
+1./opensource-class
+2./android
+3./Arduino
+4./linux
+5./markdown-here
