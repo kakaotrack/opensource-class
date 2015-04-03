@@ -6,6 +6,12 @@
 
 일반적인 오픈소스 프로젝트들에 여러 형태로 기여하고 참여할 수 있는 방법과 그에 필요한 여러가지 기술들을 소개하고, 실습을 통해 학생들과 상호 작용하여 오픈 마인드를 심고자 합니다.
 
+## 연락처
+
+- 황은경 / viloet.blue@daumkakao.com
+- 제주시 영평동 2184, 다음카카오 스페이스 닷투
+
+
 ## 참고 자료
  * Innovation Happens Elsewhere: Open Source as Business Strategy
   * © 2005 by Ron Goldman & Richard P. Gabriel
