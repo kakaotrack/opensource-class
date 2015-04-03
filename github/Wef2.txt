@@ -1,3 +1,27 @@
 Name : 김보경
 Student ID : 2011108181
 Github URL : http://github.com/Wef2
+
+## 구독하는 오픈소스 저장소
+
+1. advanced-webapps-class/front-end-start
+2. airbnb/javascript
+3. daumkakaotrack/opensource-class
+4. torvalds/linux
+5. arduino/Arduino
+ 
+## 좋아하는 오픈소스 저장소
+
+1. advanced-webapps-class/front-end-start
+2. airbnb/javascript
+3. daumkakaotrack/opensource-class
+4. torvalds/linux
+5. arduino/Arduino
+
+## 포킹한 오픈소스 저장소
+
+1. advanced-webapps-class/front-end-start
+2. airbnb/javascript
+3. daumkakaotrack/opensource-class
+4. torvalds/linux
+5. arduino/Arduino
