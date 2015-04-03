@@ -7,7 +7,7 @@ Github URL: http://github.com/chappi12
 
 1. https://github.com/opensource-class
 2. https://github.com/linux
-3.  https://github.com/opensource
+3. https://github.com/opensource
 4. https://github.com/java
 5.
 
@@ -15,7 +15,7 @@ Github URL: http://github.com/chappi12
 
 1. https://github.com/Chappi12/opensource-class
 2. https://github.com/linux
-3.  https://github.com/opensource
+3. https://github.com/opensource
 4. https://github.com/Chappi12/java
 5.
 
