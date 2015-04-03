@@ -9,25 +9,25 @@
 
 ## 구독하는 오픈소스 저장소
 
-1. /airbnb/javascript
-2. /w3c/html
-3. /niceaji/javascript-study
-4. /pubnub/java
-5. /daumkakaotrack/java-framework-class
+1. 
+2.
+3. 
+4. 
+5. 
 
 ## 좋아하는 오픈소스 저장소
 
-1. /replaykim/android
-2. /airbnb/javascript
-3. /niceaji/javascript-study
-4. /replaykim/Arduino
-5. /replaykim/markdown-here
+1. 
+2. 
+3. 
+4. 
+5. 
 
 ## 포킹한 오픈소스 저장소
 
-1. /replaykim/opensource-class
-2. /replaykim/android
-3. /replaykim/Arduino
-4. /replaykim/linux
-5. /replaykim/markdown-here
+1.
+2. 
+3. 
+4. 
+5. /daumkakaotrack/opensource-class/
 
