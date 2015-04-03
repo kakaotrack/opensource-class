@@ -10,7 +10,7 @@
 ## 구독하는 오픈소스 저장소
 
 1. advanced-webapps-class/front-end-start
-2. advanced-webapps-class/classroom
+2. airbnb/javascript
 3. daumkakaotrack/opensource-class
 4. torvalds/linux
 5. arduino/Arduino
@@ -18,7 +18,7 @@
 ## 좋아하는 오픈소스 저장소
 
 1. advanced-webapps-class/front-end-start
-2. advanced-webapps-class/classroom
+2. airbnb/javascript
 3. daumkakaotrack/opensource-class
 4. torvalds/linux
 5. arduino/Arduino
@@ -26,7 +26,7 @@
 ## 포킹한 오픈소스 저장소
 
 1. advanced-webapps-class/front-end-start
-2. advanced-webapps-class/classroom
+2. airbnb/javascript
 3. daumkakaotrack/opensource-class
 4. torvalds/linux
 5. arduino/Arduino
