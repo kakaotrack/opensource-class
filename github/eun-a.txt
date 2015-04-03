@@ -4,26 +4,26 @@ Github URL : http://github.com/Eun-A
 
 구독하는 오픈소스 저장소
 
-1. github
-2. php
-3. streem
-4. opensource-class
-5. scribe-java
+1.michael/github 
+2.daumkakaotrack/opensource-class 
+3.stephens2424/php 
+4.fernandezpablo85/scribe-java 
+5.matz/streem 
 
 좋아하는 오픈소스 저장소
 
-1. github
-2. php
-3. streem
-4. opensource-class
-5. scribe-java
+1.michael/github 
+2.daumkakaotrack/opensource-class 
+3.stephens2424/php 
+4.fernandezpablo85/scribe-java 
+5.matz/streem 
 
 
 포킹한 오픈소스 저장소
 
-1. github
-2. php
-3. streem
-4. opensource-class
-5. scribe-java
+1.michael/github 
+2.daumkakaotrack/opensource-class 
+3.stephens2424/php 
+4.fernandezpablo85/scribe-java 
+5.matz/streem 
 
