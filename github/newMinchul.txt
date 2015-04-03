@@ -1,3 +1,28 @@
 Name: ShinMinChul
 Student ID: 2012108190
 Github URL: http://github.com/newMinchul
+
+## 구독하는 오픈소스 저장소
+
+1.delaybu/frontend-todos-master
+2.torvalds/linux
+3.torvalds/subsurface
+4.delaybu/javascript-study
+5.advanced-webapps-class/front-end-start
+
+## 좋아하는 오픈소스 저장소
+
+1.delaybu/frontend-todos-master
+2.torvalds/linux
+3.torvalds/subsurface
+4.delaybu/javascript-study
+5.advanced-webapps-class/front-end-start
+
+## 포킹한 오픈소스 저장소
+
+1.delaybu/frontend-todos-master
+2.torvalds/linux
+3.torvalds/subsurface
+4.delaybu/javascript-study
+5.advanced-webapps-class/front-end-start
+
