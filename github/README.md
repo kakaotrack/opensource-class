@@ -9,19 +9,19 @@
 
 ## 구독하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1.opensource-class
+2.2048
+3.ruby
+4.Font-Awesome
+5.SoundManager2
 
 ## 좋아하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1.ansible
+2.ReactiveCocoa
+3.SoundManager2
+4.opensource-class
+5.2048
 
 ## 포킹한 오픈소스 저장소
 
