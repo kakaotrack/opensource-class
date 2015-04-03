@@ -25,8 +25,8 @@
 
 ## 포킹한 오픈소스 저장소
 
-1.
-2.
+1.https://github.com/daumkakaotrack/opensource-class
+2.https://github.com/rubygems/rubygems
 3.
 4.
 5.
