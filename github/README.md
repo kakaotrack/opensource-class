@@ -9,25 +9,25 @@
 
 ## 구독하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1.https://github.com/wertgw/opensource-class
+2.https://github.com/owncloud/music
+3.https://github.com/saulmm/Material-Movies
+4.https://github.com/jsantell/dancer.js
+5.https://github.com/jeremytregunna/ruby-trello
 
 ## 좋아하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1.https://github.com/wertgw/opensource-class
+2.https://github.com/owncloud/music
+3.https://github.com/saulmm/Material-Movies
+4.https://github.com/jsantell/dancer.js
+5.https://github.com/jeremytregunna/ruby-trello
 
 ## 포킹한 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1.https://github.com/wertgw/opensource-class
+2.https://github.com/owncloud/music
+3.https://github.com/saulmm/Material-Movies
+4.https://github.com/jsantell/dancer.js
+5.https://github.com/jeremytregunna/ruby-trello
 
