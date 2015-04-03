@@ -17,11 +17,11 @@
 
 ## 좋아하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1.opscode-cookbooks / windows  
+2.torvalds / linux  
+3.jejudelicious
+4.Hanul / KoreaOpenSource  
+5.kakaolink-android  
 
 ## 포킹한 오픈소스 저장소
 
