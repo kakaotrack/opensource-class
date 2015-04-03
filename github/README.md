@@ -27,7 +27,7 @@
 
 1.https://github.com/daumkakaotrack/opensource-class
 2.https://github.com/rubygems/rubygems
-3.
+3.https://github.com/sampsyo/beets
 4.
 5.
 
