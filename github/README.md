@@ -28,6 +28,6 @@
 1.https://github.com/daumkakaotrack/opensource-class
 2.https://github.com/rubygems/rubygems
 3.https://github.com/sampsyo/beets
-4.
-5.
+4.https://github.com/FortAwesome/Font-Awesome
+5.https://github.com/github/linguist
 
