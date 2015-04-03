@@ -1,12 +1,5 @@
 # 오픈소스 개발 방법론
 
-Basic useful feature list:
-
- * Ctrl/Cmd + S to save the file
- * Drag and drop a file into here to load it
- * File contents are saved in the URL so you can share files
-
-
 이 강의에서 오픈소스에 대한 전반적인 지식을 습득하고, 오픈소스 프로젝트에 직접 참여하게 됩니다.
 
 소프트웨어 개발을 처음 시작하는 사람들이 가장 손쉽게 접할 수 있는 것이 바로 오픈소스 소프트웨어입니다. 오픈소스 개발은 비교적 쉽게 참여할 수 있으면서도 여러가지 형태의 진보된 개발 방법을 습득하고 연습할 수 있는 좋은 기회이자, 흥미를 느끼고 지속적으로 기여하는 경우 많은 경험을 할 수 있습니다.
