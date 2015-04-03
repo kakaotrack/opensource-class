@@ -1,0 +1,28 @@
+name : 양우준
+student ID : 2011108191
+git hub URL : https://github.com/WuJoon-Yang
+
+
+## 구독하는 오픈소스 저장소
+
+1. https://github.com/WuJoon-Yang/cocos2d-x
+2.https://github.com/WuJoon-Yang/grpc
+3. https://github.com/WuJoon-Yang/java
+4. https://github.com/WuJoon-Yang/java-1
+5. https://github.com/WuJoon-Yang/linux
+
+## 좋아하는 오픈소스 저장소
+
+1. https://github.com/WuJoon-Yang/cocos2d-x
+2. https://github.com/WuJoon-Yang/grpc
+3. https://github.com/WuJoon-Yang/java
+4. https://github.com/WuJoon-Yang/java-1
+5. https://github.com/WuJoon-Yang/linux
+
+## 포킹한 오픈소스 저장소
+
+1. https://github.com/WuJoon-Yang/cocos2d-x
+2. https://github.com/WuJoon-Yang/grpc
+3. https://github.com/WuJoon-Yang/java
+4. https://github.com/WuJoon-Yang/java-1
+5. https://github.com/WuJoon-Yang/linux
