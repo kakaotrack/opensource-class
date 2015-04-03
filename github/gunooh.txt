@@ -4,24 +4,24 @@ Github URL : https://github.com/gunooh
 
 ## 구독하는 오픈소스 저장소
 
-1.https://github.com/gunooh/opensource-class
-2.https://github.com/gunooh/clean.js
-3.https://github.com/gunooh/github
-4.https://github.com/gunooh/java
-5.https://github.com/gunooh/WindowsIcons
+1.opensource-class
+2.clean.js
+3.github
+4.java
+5.WindowsIcons
 
 ## 좋아하는 오픈소스 저장소
 
-1.https://github.com/gunooh/opensource-class
-2.https://github.com/gunooh/clean.js
-3.https://github.com/gunooh/github
-4.https://github.com/gunooh/java
-5.https://github.com/gunooh/WindowsIcons
+1.opensource-class
+2.clean.js
+3.github
+4.java
+5.WindowsIcons
 
 ## 포킹한 오픈소스 저장소
 
-1.https://github.com/gunooh/opensource-class
-2.https://github.com/gunooh/clean.js
-3.https://github.com/gunooh/github
-4.https://github.com/gunooh/java
-5.https://github.com/gunooh/WindowsIcons
+1.opensource-class
+2.clean.js
+3.github
+4.java
+5.WindowsIcons
