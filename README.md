@@ -8,10 +8,7 @@
 
 ## 연락처
 
-- 황은경 / viloet.blue@daumkakao.com
-- 제주시 영평동 2184, 다음카카오 스페이스 닷투
-
-- 황은경 / sunrise09@gmai.com
+- 황은경 / sunrise09@gmail.com
 
 ## 참고 자료
  * Innovation Happens Elsewhere: Open Source as Business Strategy
