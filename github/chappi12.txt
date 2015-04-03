@@ -6,7 +6,7 @@ Github URL: http://github.com/chappi12
 구독하는 오픈소스 저장소
 
 1. opensource-class
-2. 
+2. linux
 3.
 4.
 5.
@@ -14,7 +14,7 @@ Github URL: http://github.com/chappi12
 좋아하는 오픈소스 저장소
 
 1. opensource-class
-2.
+2. linux
 3.
 4.
 5.
@@ -22,7 +22,7 @@ Github URL: http://github.com/chappi12
 포킹한 오픈소스 저장소
 
 1. opensource-class
-2.
+2. linux
 3.
 4.
 5.
