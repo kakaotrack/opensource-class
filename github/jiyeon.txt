@@ -10,7 +10,7 @@ Github URL: https://github.com/jiyeonle
 5.
 
 ## 좋아하는 오픈소스 저장소
-1.
+1. https://github.com/daumkakaotrack/open-source-class-old
 2.
 3.
 4.
