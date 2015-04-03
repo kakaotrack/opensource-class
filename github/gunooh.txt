@@ -2,7 +2,7 @@ Name : gunooh
 Student ID : 2012108184
 Github URL : https://github.com/gunooh
 
-## 구독하는 오픈소스 저장소
+구독하는 오픈소스 저장소
 
 1.opensource-class
 2.clean.js
@@ -10,7 +10,7 @@ Github URL : https://github.com/gunooh
 4.java
 5.WindowsIcons
 
-## 좋아하는 오픈소스 저장소
+좋아하는 오픈소스 저장소
 
 1.opensource-class
 2.clean.js
@@ -18,7 +18,7 @@ Github URL : https://github.com/gunooh
 4.java
 5.WindowsIcons
 
-## 포킹한 오픈소스 저장소
+포킹한 오픈소스 저장소
 
 1.opensource-class
 2.clean.js
