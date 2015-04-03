@@ -9,25 +9,25 @@
 
 ## 구독하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1. https://github.com/torvalds/linux
+2. https://github.com/github-archive/media
+3. https://github.com/github/android
+4. https://github.com/nborwankar/LearnDataScience
+5. https://github.com/python-git/python
 
 ## 좋아하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1. https://github.com/torvalds/linux
+2. https://github.com/github-archive/media
+3. https://github.com/github/android
+4. https://github.com/nborwankar/LearnDataScience
+5. https://github.com/python-git/python
 
 ## 포킹한 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1. https://github.com/torvalds/linux
+2. https://github.com/github-archive/media
+3. https://github.com/github/android
+4. https://github.com/nborwankar/LearnDataScience
+5. https://github.com/python-git/python
 
