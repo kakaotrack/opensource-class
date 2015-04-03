@@ -1,0 +1,28 @@
+Name : JunBeom-Park
+Studuent ID : 2014108189
+Github URL : http://github.com/JunBeom_Park
+
+
+## 구독하는 오픈소스 저장소
+
+1.opscode-cookbooks / windows  
+2.torvalds / linux  
+3.jejudelicious
+4.Hanul / KoreaOpenSource  
+5.kakaolink-android 
+
+## 좋아하는 오픈소스 저장소
+
+1.opscode-cookbooks / windows  
+2.torvalds / linux  
+3.jejudelicious
+4.Hanul / KoreaOpenSource  
+5.kakaolink-android  
+
+## 포킹한 오픈소스 저장소
+
+1.travis-ci-examples/php
+2.daumkakaotrack/opensource-class
+3.torvalds/linux
+4.kakao/kakaolink-android
+5.Cheechyo/jejudelicious
