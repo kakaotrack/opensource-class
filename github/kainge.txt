@@ -1,3 +1,27 @@
 name : 강무송
 Student ID : 2010104128
 Github address : https://github.com/kainge
+
+## 구독하는 오픈소스 저장소
+
+1.https://github.com/torvalds
+2.
+3.
+4.
+5.
+
+## 좋아하는 오픈소스 저장소
+
+1. https://github.com/torvalds
+2.
+3.
+4.
+5.
+
+## 포킹한 오픈소스 저장소
+
+1. https://github.com/torvalds
+2.
+3.
+4.
+5.
