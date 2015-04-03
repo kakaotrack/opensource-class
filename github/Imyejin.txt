@@ -4,19 +4,19 @@ Github URL:https://github.com/Imyejin
 
 ## 구독하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1.jordansissel/fpm
+2.pypa/pip
+3.bower/bower
+4.npm/npm
+5.CocoaPods/CocoaPods
 
 ## 좋아하는 오픈소스 저장소
 
-1.
-2.
-3.
-4.
-5.
+1.HoTT/book
+2.manuelkiessling/nodebeginner.org
+3.addyosmani/backbone-fundamentals
+4.puppetlabs/puppet
+5.chef/chef
 
 ## 포킹한 오픈소스 저장소
 
