@@ -9,25 +9,25 @@
 
 ## 구독하는 오픈소스 저장소
 
-1./daumkakaotrack/opensource-class
-2./Yongdae-Kim/design_patterns_study
-3./advanced-webapps-class/todo-webapp
-4./twbs/bootstrap
+1.
+2.
+3.
+4.
 5.
 
 ## 좋아하는 오픈소스 저장소
 
-1./HunkSmile/Swift
-2./github/android
-3./Marak/HTML
-4./advanced-webapps-class/todo-webapp
-5./Mrdigs/Bootstrap.jsp
+1.
+2.
+3.
+4.
+5.
 
 ## 포킹한 오픈소스 저장소
 
-1./daumkakaotrack/opensource-class
-2./Yongdae-Kim/android_study
-3./Yongdae-Kim/design_patterns_study
-4./Yongdae-Kim/frontend-class
-5./Mrdigs/Bootstrap.jsp
+1.
+2.
+3.
+4.
+5.
 
