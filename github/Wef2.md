@@ -1,6 +1,6 @@
 Name: **_bokyung-kim_**
 Student ID: 2011108181
-Github URL: http://github.com/**Wef2**
+Github URL: **http://github.com/Wef2**
 
 
 ## 구독하는 오픈소스 저장소
