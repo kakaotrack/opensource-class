@@ -1,22 +1,22 @@
-Name: ºÎÁö¿¬
+Name: ë¶€ì§€ì—°
 Student ID: 2012108188
 Github URL: http://github.com/delaybu
 
-## ±¸µ¶ÇÏ´Â ¿ÀÇÂ¼Ò½º ÀúÀå¼Ò
+## êµ¬ë…í•˜ëŠ” ì˜¤í”ˆì†ŒìŠ¤ ì €ì¥ì†Œ
 1.daumkakaotrack/opensource-class
 2.torvalds/linux
 3.niceaji/javascript-study
 4.advanced-webapps-class/front-end-start
 5.advanced-webapps-class/todo-webapp
 
-## ÁÁ¾ÆÇÏ´Â ¿ÀÇÂ¼Ò½º ÀúÀå¼Ò
+## ì¢‹ì•„í•˜ëŠ” ì˜¤í”ˆì†ŒìŠ¤ ì €ì¥ì†Œ
 1.daumkakaotrack/opensource-class
 2.torvalds/linux
 3.niceaji/javascript-study
 4.advanced-webapps-class/front-end-start
 5.advanced-webapps-class/todo-webapp
 
-## Æ÷Å·ÇÑ ¿ÀÇÂ¼Ò½º ÀúÀå¼Ò
+## í¬í‚¹í•œ ì˜¤í”ˆì†ŒìŠ¤ ì €ì¥ì†Œ
 1.daumkakaotrack/opensource-class
 2.torvalds/linux
 3.niceaji/javascript-study
