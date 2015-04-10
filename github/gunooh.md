@@ -1,8 +1,10 @@
+### Instructor
+
 Name : gunooh
 Student ID : 2012108184
 Github URL : https://github.com/gunooh
 
-#### 구독하는 오픈소스 저장소
+### 구독하는 오픈소스 저장소
 
 1.**opensource-class**
 2._clean.js_
@@ -10,7 +12,7 @@ Github URL : https://github.com/gunooh
 4._java_
 5._WindowsIcons_
 
-#### 좋아하는 오픈소스 저장소
+### 좋아하는 오픈소스 저장소
 
 1.**opensource-class**
 2._clean.js_
@@ -18,7 +20,7 @@ Github URL : https://github.com/gunooh
 4._java_
 5._WindowsIcons_
 
-#### 포킹한 오픈소스 저장소
+### 포킹한 오픈소스 저장소
 
 1.**opensource-class**
 2._clean.js_
@@ -27,7 +29,7 @@ Github URL : https://github.com/gunooh
 5._WindowsIcons_
 
 
-#### -자기소개서-
+### -자기소개서-
 
 저는 1993년 11월 24일 제주도에서 출생했습니다. 
 제주대학교 컴퓨터공학과에 12학번으로 입학하여 1학년을 마치고 군대를 다녀온 후 복학해서 현재는 2학년에 재학 중입니다.
