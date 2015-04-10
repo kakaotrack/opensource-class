@@ -12,7 +12,7 @@ Github URL : https://github.com/gunooh
 
 #### 좋아하는 오픈소스 저장소
 
-1._opensource-class_
+1.**opensource-class**
 2._clean.js_
 3._github_
 4._java_
@@ -20,14 +20,14 @@ Github URL : https://github.com/gunooh
 
 #### 포킹한 오픈소스 저장소
 
-1._opensource-class_
+1.**opensource-class**
 2._clean.js_
 3._github_
 4._java_
 5._WindowsIcons_
 
 
-#-자기소개서-
+#### -자기소개서-
 
 저는 1993년 11월 24일 제주도에서 출생했습니다. 
 제주대학교 컴퓨터공학과에 12학번으로 입학하여 1학년을 마치고 군대를 다녀온 후 복학해서 현재는 2학년에 재학 중입니다.
