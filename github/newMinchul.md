@@ -4,27 +4,27 @@
 
 ### 구독하는 오픈소스 저장소
 
-_1.delaybu/frontend-todos-master_
-_2.torvalds/linux_
-_3.torvalds/subsurface_
-_4.delaybu/javascript-study_
-_5.advanced-webapps-class/front-end-start_
+1._delaybu/frontend-todos-master_
+2._torvalds/linux_
+3._torvalds/subsurface_
+4._delaybu/javascript-study_
+5._advanced-webapps-class/front-end-start_
 
 ### 좋아하는 오픈소스 저장소
 
-_1.delaybu/frontend-todos-master_
-_2.torvalds/linux_
-_3.torvalds/subsurface_
-_4.delaybu/javascript-study_
-_5.advanced-webapps-class/front-end-start_
+1._delaybu/frontend-todos-master_
+2._torvalds/linux_
+3._torvalds/subsurface_
+4._delaybu/javascript-study_
+5._advanced-webapps-class/front-end-start_
 
 ### 포킹한 오픈소스 저장소
 
-_1.delaybu/frontend-todos-master_
-_2.torvalds/linux_
-_3.torvalds/subsurface_
-_4.delaybu/javascript-study_
-_5.advanced-webapps-class/front-end-start_
+1._delaybu/frontend-todos-master_
+2._torvalds/linux_
+3._torvalds/subsurface_
+4._delaybu/javascript-study_
+5._advanced-webapps-class/front-end-start_
 
 안녕하세요
 컴퓨터공학과 신민철입니다.
