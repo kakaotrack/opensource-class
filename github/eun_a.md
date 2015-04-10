@@ -1,6 +1,6 @@
-##NAME : Jang Eun A
-##Student ID : 2014108207
-##Github URL : [http://github.com/**Eun-A**](http://github.com/Eun-A)
+###NAME : Jang Eun A
+###Student ID : 2014108207
+###Github URL : [http://github.com/**Eun-A**](http://github.com/Eun-A)
 
 >구독하는 오픈소스 저장소
 
