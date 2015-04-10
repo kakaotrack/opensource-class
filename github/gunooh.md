@@ -1,32 +1,32 @@
 ### Instructor
 
-Name : gunooh
-Student ID : 2012108184
-Github URL : https://github.com/gunooh
+- Name : gunooh
+- Student ID : 2012108184
+- Github URL : https://github.com/gunooh
 
 ### 구독하는 오픈소스 저장소
 
-1.**opensource-class**
-2._clean.js_
-3._github_
-4._java_
-5._WindowsIcons_
+- 1.**__opensource-class__**
+- 2._clean.js_
+- 3._github_
+- 4._java_
+- 5._WindowsIcons_
 
 ### 좋아하는 오픈소스 저장소
 
-1.**opensource-class**
-2._clean.js_
-3._github_
-4._java_
-5._WindowsIcons_
+- 1.**__opensource-class__**
+- 2._clean.js_
+- 3._github_
+- 4._java_
+- 5._WindowsIcons_
 
 ### 포킹한 오픈소스 저장소
 
-1.**opensource-class**
-2._clean.js_
-3._github_
-4._java_
-5._WindowsIcons_
+- 1.**__opensource-class__**
+- 2._clean.js_
+- 3._github_
+- 4._java_
+- 5._WindowsIcons_
 
 
 ### -자기소개서-
