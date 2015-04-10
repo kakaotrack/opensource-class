@@ -3,26 +3,26 @@ Student ID: 2014108191
 Github URL:https://github.com/SeongDo
 
 ## 구독하는 오픈소스 저장소
-1. 
-2. 
-3. 
-4. 
-5. 
+1. http://markdowntutorial.com
+2. https://github.com/SeongDo/opensource-class
+3. https://github.com/SeongDo/PredictionIO
+4.https://github.com/SeongDo/scikit-learn
+5. https://github.com/SeongDo/brain
 
 
 ## 좋아하는 오픈소스 저장소
-1.
-2. 
-3. 
-4. 
-5. 
+1. http://markdowntutorial.com
+2. https://github.com/SeongDo/opensource-class
+3. https://github.com/SeongDo/PredictionIO
+4. https://github.com/SeongDo/scikit-learn
+5. https://github.com/SeongDo/brain
 
 
 ## 포킹한 오픈소스 저장소
-1.
-2. 
-3. 
-4. 
-5. 
+1. http://markdowntutorial.com
+2. https://github.com/SeongDo/opensource-class
+3. https://github.com/SeongDo/PredictionIO
+4. https://github.com/SeongDo/scikit-learn
+5. https://github.com/SeongDo/brain
 
 
