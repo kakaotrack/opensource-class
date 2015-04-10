@@ -1,6 +1,6 @@
-Name: seunghoHyun
-Student ID: 2011108209
-Github URL: http://github.com/scsc3313
+Name: seunghoHyun <Br>
+Student ID: 2011108209 <Br>
+Github URL: http://github.com/scsc3313 <Br>
 
 
 ## 구독하는 오픈소스 저장소
