@@ -1,3 +1,0 @@
-Name: Gildong-Hong
-Student ID: 2015000000
-Github URL: http://github.com/gildong-hong
