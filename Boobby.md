@@ -2,7 +2,7 @@
 
 ##Eunhyung Boo
 
-![](https://scontent.xx.fbcdn.net/hphotos-frc1/v/l/t1.0-9/1800485_479322448857725_1834417560_n.jpg?oh=3e5781afd76c799b557edb1d523d83b1&oe=574D8836)
+![](C:\Users\Boobby\Desktop\Me.png)
 * Birth: 1992.09.22
 * Location: Jeju-do, Korea
 * Email: boo1984@naver.com
@@ -26,9 +26,3 @@
 
 * Sing a Song
 * Game
-
-
-
-![](https://avatars0.githubusercontent.com/u/17849556?v=3&s=460)
-
-i
