@@ -1,4 +1,4 @@
-:RESUME:
+|:RESUME:|
 ---
 
 * name : Eunhyung Boo
