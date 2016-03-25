@@ -1,5 +1,4 @@
 #RESUME
----
 ##Eunhyung Boo
 * Birth: 1992.09.22
 * Email: (boo1984@naver.com)
