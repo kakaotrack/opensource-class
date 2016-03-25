@@ -1,4 +1,4 @@
-RESUME
+RESUME {.aligncenter}
 ---
 
 * name : Eunhyung Boo
