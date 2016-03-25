@@ -1,4 +1,4 @@
-RESUME {.aligncenter}
+:RESUME:
 ---
 
 * name : Eunhyung Boo
