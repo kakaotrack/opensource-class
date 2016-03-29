@@ -14,7 +14,7 @@
 				    
 <li><b> <font size="4">학교</b></font> : 제주대학교
 					    	
-<li><b><a href="https://dreamy.jejunu.ac.kr/frame/main.do">하영드리미</a></b>
+
 </ul>
 
 
