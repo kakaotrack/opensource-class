@@ -1,9 +1,21 @@
-안녕하세요
+<h1>자기소개서</h1>
 
-저는 정승부 라고 합니다
 
-21살 이며 제주대학교 컴퓨터 공학과에 재학중입니다
+![md01.png](C:\Users\Administrator\Desktop\md01.png)
 
-저는 현재 교래리에서 통학을 하고있습니다.
+<ul>
+<li><b> <font size="4">이름</b></font> : 정승부
+	    
+<li><b> <font size="4">나이</b></font> : 21
+		    
+<li><b> <font size="4">주소</b></font> : 제주시 조천읍 교래4길 20-11
+			    
+<li><b> <font size="4">번호</b></font> : 010 7979 1695 
+				    
+<li><b> <font size="4">학교</b></font> : 제주대학교
+					    	
+<li><b><a href="https://dreamy.jejunu.ac.kr/frame/main.do">하영드리미</a></b>
+</ul>
+
 
 
