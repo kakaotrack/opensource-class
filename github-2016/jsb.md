@@ -1,7 +1,7 @@
 <h1>자기소개서</h1>
 
 
-![md01.png](C:\Users\Administrator\Desktop\md01.png)
+![md01.png](C:\Users\Administrator\Desktop\opensource-class\github2016\md01.png)
 
 <ul>
 <li><b> <font size="4">이름</b></font> : 정승부
