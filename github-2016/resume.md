@@ -2,7 +2,7 @@
 
 ![](http://postfiles14.naver.net/20160329_237/sohi8290_1459230611788ln8Rv_JPEG/face2.jpg?type=w2)
 
-###&nbsp;&nbsp; 양 소 희 ( 梁 素 喜 )
+#### &nbsp;&nbsp; 양 소 희 ( 梁 素 喜 )
 
 ####&nbsp;&nbsp;&nbsp;&nbsp;About
 
