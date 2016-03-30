@@ -1,3 +1,4 @@
+
 Gitub
 -----
 * [try Git  실습](https://try.github.io/levels/1/challenges/1)
@@ -13,5 +14,5 @@ Fork & PR 실습
 --------------
 * [윈도우용 Git 다운로드](https://git-for-windows.github.io/)
 * [github 강의 저장소 fork 하기](https://github.com/daumkakaotrack/opensource-class)
-* 자기소개서 작성하기(github-2016 디렉토리)
+* 자기소개서 작성하기(github-2016 디렉토리) : https://github.com/kakaotrack/opensource-class/blob/master/github-2016/iolo.md 참고
 * PR 보내기
