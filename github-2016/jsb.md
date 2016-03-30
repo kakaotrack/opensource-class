@@ -14,7 +14,7 @@
 				    
 <li><b> <font size="4">학교</b></font> : 제주대학교
 					    	
-
+<li><b> <font size="4">취미</b></font> : 컴퓨터
 </ul>
 
 
