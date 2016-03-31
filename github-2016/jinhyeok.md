@@ -1,5 +1,14 @@
 # JinHyeok Kang (Harry Kang)  
+## Contact
 ![profile photo](https://scontent.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/p160x160/12928323_1054789254585553_1605243258702096880_n.jpg?oh=bbf6ef07cd0f8da39fa7480fc3a66fcc&oe=5793E665 "profile photo" "width:120px;float:right")
+- Email: [jinhyeok.kang@gmail.com](mailto:jinhyeok.kang@gmail.com)
+- [Blog](http://blog.skyserv.kr)
+- SNS
+	- [LinkedIn](https://www.linkedin.com/in/jinhyeok)
+	- [GitHub](https://github.com/jhkang)
+	- [Facebook](https://www.facebook.com/jinhyeok)
+	- [Instagram](https://www.instagram.com/jinhyeok_kang)
+
 ## Education
 - **Jeju National University** (2010.3 - 2017.2)  
 	BEng, Computer Engineering
