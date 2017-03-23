@@ -6,7 +6,6 @@ Markdown
 Gitub
 -----
 * [try Git  실습](https://try.github.io/levels/1/challenges/1)
-* github 계정 만들기
 
 Fork & PR 실습
 --------------
