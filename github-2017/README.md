@@ -17,7 +17,7 @@ Fork & PR 실습
 * PR 보내기
 * 힌트
   - [github 강의 저장소](https://github.com/daumkakaotrack/opensource-class)에서 [나의 원격 저장소](https://github.com/나의깃헙아이디/opensource-class )로 **Fork**
-  - Git Bash 실행 (윈도우용 Git이 설치된 상태)
+  - Git Bash 실행 (윈도우용 Git이 설치된 상태)
   - [원격 저장소](https://github.com/나의깃헙아이디/opensource-class)에서 로컬 저장소(opensource-class 디렉토리)로 가져오기: `git clone https://github.com/깃헙사용자아이디/opensource-class.git`
   - `cd opensource-class`
   - vi 실행하고 파일 새로만들기/열기: `vi github-2017/학번.md`
