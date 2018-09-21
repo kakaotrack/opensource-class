@@ -12,7 +12,7 @@ Fork & PR 실습
 * github 계정 만들기
 * [윈도우용 Git 다운로드](https://git-for-windows.github.io/)
 * [github 강의 저장소 fork 하기](https://github.com/daumkakaotrack/opensource-class)
-* 자기소개서 작성하기: `github-2017` 폴더에 `학번.md` 파일
+* 자기소개서 작성하기: `github-2018` 폴더에 `학번.md` 파일
   - 관심 저장소 fork 2개 이상 포함 
 * PR 보내기
 * 힌트
