@@ -2,6 +2,7 @@
 
 * 이름 : 윤준
 * 이메일 : jjuny4720@naver.com
+![ProfilePhoto]https://raw.githubusercontent.com/jjuny4720/opensource-class/jjuny4720-patch-1/%EC%BA%A1%EC%B2%98.PNG
 
 ## 소속
 
