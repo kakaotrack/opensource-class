@@ -10,11 +10,11 @@
 
 ## 참고 자료
  * Innovation Happens Elsewhere: Open Source as Business Strategy
-  * © 2005 by Ron Goldman & Richard P. Gabriel
-  * https://dreamsongs.com/IHE/IHE.html
+   * © 2005 by Ron Goldman & Richard P. Gabriel
+   * https://dreamsongs.com/IHE/IHE.html
  * Open Advise, FOSS: What We Wish We Had Known When We Started
-  * Lydia Pintscher
-  * http://open-advice.org/Open-Advice.pdf
+   * Lydia Pintscher
+   * http://open-advice.org/Open-Advice.pdf
 
 ## 강의 계획
 
@@ -45,11 +45,11 @@
 | 1 | Git, GitHub | Console, Client SW |
 | 2 | Markdown, ReadMe file Create | Web, Client SW|
 | 3 | Python | Web Console |
-| 4 | TED 동영상 감상문 | 발표 |
+| 4 | 오픈소스 영상 or 자료 리포트 | 발표 |
 
 ## 평가
 
 |  | 출석 | 중간고사 | 기말고사 | 과제&수시고사 | 계 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 배점 | 10% | 30% | 40% | 20% | 100% |
-# my-repository
+
