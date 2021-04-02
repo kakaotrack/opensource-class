@@ -22,4 +22,6 @@ violet
   - V7-mediarouter: 구글 카스트 지원을 위한 MediaRouter
   - V7-palette: 이미지의 색상 추출
   ```
-* [Android NDK samples](https://github.com/violetblue/android-ndk)
+* [Just the Docs](https://github.com/violetblue/just-the-docs)
+  - 검색 기능을 내장한 현대적이고 사용자 정의가 가능하며 반응이 빠른 Jekyll 테마
+  - Github 페이지 호스팅을 위한 깔끔한 테마
