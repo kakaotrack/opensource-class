@@ -9,11 +9,14 @@
 - 황은경 / sunrise09@gmail.com
 
 ## 참고 자료
+ * GitHub Docs https://docs.github.com
+ * 오픈소스 가이던스(카카오)
+   * https://t1.kakaocdn.net/olive/assets/opensource_guide_kakao.pdf 
+ * 공개SW 라이선스 가이드 (NIPA)
+   * https://www.oss.kr/oss_guide/show/a17c94f3-a470-4e1d-8cfe-d5d15d6535f7
  * Innovation Happens Elsewhere: Open Source as Business Strategy
    * © 2005 by Ron Goldman & Richard P. Gabriel
    * https://dreamsongs.com/IHE/IHE.html
- * 공개SW 라이선스 가이드 (nipa)
-   * https://www.oss.kr/oss_guide/show/a17c94f3-a470-4e1d-8cfe-d5d15d6535f7
 
 ## 강의 계획
 
