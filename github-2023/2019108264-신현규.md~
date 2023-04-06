@@ -51,7 +51,7 @@
 
 - OpenZeppelin/openzeppelin-contracts
     
-    [https://github.com/stanaly/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+    [https://github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
     
     - 해당 레포지토리는 오픈 제플린의 스마트계약 레포지토리입니다.
     - 안전한 스마트 계약 개발을 위한 라이브러리로, MIT 라이센스로 배포되고 있습니다.
@@ -60,7 +60,7 @@
     - 또한, 다양한 개발 도구와 인프라를 제공하여 개발자로 하여금 보안 인프라 구축보다 스마트계약 배포에 집중할 수 있도록 합니다.
 - HyperLedger/fabric
     
-    [https://github.com/stanaly/fabric](https://github.com/hyperledger/fabric)
+    [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
     
     - 해당 레포지토리는 리눅스 재단이 설립한 하이퍼레저 패브릭 레포지토리입니다.
     - 하이퍼레저 페브릭은 기업용으로 설계된 허가형 분산 원장 기술입니다.
